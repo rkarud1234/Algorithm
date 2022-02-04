@@ -132,7 +132,7 @@ public class Main {
 		check[idx] = false;
 		selectV(cnt, idx + 1);
 	}
-}
+} 
 
 class Point {
 	int i, j;
